@@ -14,7 +14,6 @@
 		8F96BEAD1A8376F200E61BB1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F96BEAB1A8376F200E61BB1 /* LaunchScreen.xib */; };
 		8F96BEB91A8376F200E61BB1 /* Labb3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F96BEB81A8376F200E61BB1 /* Labb3Tests.m */; };
 		8F96BEC41A83A96700E61BB1 /* TodoTableVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F96BEC31A83A96700E61BB1 /* TodoTableVC.m */; };
-		8F96BEC71A83AAC200E61BB1 /* Assignment in Resources */ = {isa = PBXBuildFile; fileRef = 8F96BEC61A83AAC200E61BB1 /* Assignment */; };
 		8F96BECD1A84C4E500E61BB1 /* TaskVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F96BECC1A84C4E500E61BB1 /* TaskVC.m */; };
 		8F96BED01A84C56A00E61BB1 /* JLITask.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F96BECF1A84C56A00E61BB1 /* JLITask.m */; };
 /* End PBXBuildFile section */
@@ -43,7 +42,6 @@
 		8F96BEB81A8376F200E61BB1 /* Labb3Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Labb3Tests.m; sourceTree = "<group>"; };
 		8F96BEC21A83A96700E61BB1 /* TodoTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TodoTableVC.h; path = ../TodoTableVC.h; sourceTree = "<group>"; };
 		8F96BEC31A83A96700E61BB1 /* TodoTableVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TodoTableVC.m; path = ../TodoTableVC.m; sourceTree = "<group>"; };
-		8F96BEC61A83AAC200E61BB1 /* Assignment */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Assignment; sourceTree = "<group>"; };
 		8F96BECB1A84C4E500E61BB1 /* TaskVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TaskVC.h; sourceTree = "<group>"; };
 		8F96BECC1A84C4E500E61BB1 /* TaskVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TaskVC.m; sourceTree = "<group>"; };
 		8F96BECE1A84C56A00E61BB1 /* JLITask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JLITask.h; sourceTree = "<group>"; };
@@ -98,7 +96,6 @@
 				8F96BEA01A8376F200E61BB1 /* AppDelegate.h */,
 				8F96BEA11A8376F200E61BB1 /* AppDelegate.m */,
 				8F96BE9C1A8376F200E61BB1 /* Supporting Files */,
-				8F96BEC61A83AAC200E61BB1 /* Assignment */,
 			);
 			path = Labb3;
 			sourceTree = "<group>";
@@ -223,7 +220,6 @@
 				8F96BEA81A8376F200E61BB1 /* Main.storyboard in Resources */,
 				8F96BEAD1A8376F200E61BB1 /* LaunchScreen.xib in Resources */,
 				8F96BEAA1A8376F200E61BB1 /* Images.xcassets in Resources */,
-				8F96BEC71A83AAC200E61BB1 /* Assignment in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
